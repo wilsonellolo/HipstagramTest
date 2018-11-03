@@ -1,0 +1,15 @@
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\deve_webTests.dll
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\deve_webTests.pdb
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\deve_web.dll
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\MySql.Data.dll
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\Google.Protobuf.dll
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\deve_web.pdb
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\deve_web.dll.config
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\MySql.Data.xml
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\bin\Debug\Google.Protobuf.xml
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\obj\Debug\deve_webTests.csprojAssemblyReference.cache
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\obj\Debug\deve_webTests.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\obj\Debug\deve_webTests.csproj.CopyComplete
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\obj\Debug\deve_webTests.dll
+C:\Users\Wilson Palma\Desktop\Hipstagram1\Hipstagram\deve_web\deve_webTests\obj\Debug\deve_webTests.pdb
