@@ -86,15 +86,15 @@ namespace deve_web.Logic.Tests
         public void SecurytyEncodeTest()
         {
             String username = SecurityLogic.Encriptar("Password");
-            String expectative = "password";
+            String expectative = "sadfasfjkaslasljNASn1k=";
             Assert.AreNotEqual(expectative, username);
         }
         [TestMethod()]
         public void SecurytyDesEncodeTest()
         {
-            String username = SecurityLogic.DesEncriptar("Password");
+            String username = SecurityLogic.DesEncriptar(SecurityLogic.Encriptar( "password"));
             String expectative = "password";
-            Assert.AreNotEqual(expectative, username);
+            Assert.AreEqual(expectative, username);
         }
         
         /*SERVICES TEST*/
